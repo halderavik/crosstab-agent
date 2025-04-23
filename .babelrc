@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "next/babel",
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+    ["@babel/plugin-transform-runtime", {
+      "corejs": 3,
+      "helpers": true,
+      "regenerator": true
+    }],
+    "@babel/plugin-transform-class-properties",
+    "@babel/plugin-transform-object-rest-spread"
+  ]
+} 
