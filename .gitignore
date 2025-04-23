@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Environment variables
+.env
+.env.local
+.env.*
+!.env.example
+
+# Uploads and Data
+uploads/
+*.sav
+*.csv
+*.xlsx
+*.xls
+*.json
+*.html
+*.png
+*.jpg
+*.svg
+visualizations/
+exports/
+metadata/
+
+# Logs
+*.log
+logs/
+log/
+
+# Database
+*.db
+*.sqlite3
+mongodb/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Frontend
+node_modules/
+.next/
+out/
+build/
+.cache/
+.temp/
+*.tsbuildinfo
+
+# Testing
+test-results/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Documentation
+docs/_build/
+site/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.patch
+*.diff
+
+# Project specific
+*.ipynb
+.ipynb_checkpoints/
+notebooks/
+temp/
+tmp/ 
