@@ -20,6 +20,15 @@
 - [x] Test cases for VariableSelector
 - [x] Test cases for ChatInterface
 
+### Backend Features
+- [x] SPSS file parsing and validation
+- [x] Data cleaning and transformation
+- [x] Cross-tabulation with banner table support
+- [x] Statistical significance testing
+- [x] Interactive chart generation
+- [x] Multiple chart types support
+- [x] DeepSeek-powered LLM agent integration
+
 ## 🔄 In Progress
 
 ### Analysis Features
@@ -30,6 +39,11 @@
 ### Testing
 - [~] Additional edge cases for FileUpload tests
 - [~] Performance testing setup
+
+### Backend Development
+- [~] API endpoints implementation
+- [~] Testing infrastructure
+- [~] Documentation
 
 ## 📝 Pending Tasks
 
@@ -66,4 +80,4 @@
 - 📝 Pending
 - [x] Done
 - [~] In Progress
-- [ ] Not Started 
+- [ ] Not Started
